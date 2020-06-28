@@ -1,0 +1,5 @@
+# AngularTodoApp
+
+Simple Todo App, in that we can creat the todo list and once it is done we can check the check box and also if we want to delete we can delete.
+
+sorting implemented and it works based on checked todo's at the bottom and unchecked one's at the top.
